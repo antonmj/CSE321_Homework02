@@ -9,7 +9,7 @@ public class CalcTest {
 		Calc test = new Calc();
 		
 		int addOutput = Calc.add(4, 3);
-		assertEquals(7,addOutput);
+		assertEquals(9,addOutput); // Changed 7 to 9
 
 	}
 	
